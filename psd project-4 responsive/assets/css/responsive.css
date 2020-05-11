@@ -1,0 +1,28 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+.menu ul li a{
+	color: #1f2a33;
+	font-family: 'Barlow Condensed', bold;
+	font-size: 16px;
+	
+}
+.welcome-content{
+	padding: 150px 0;
+}
+.about-b-img{
+	margin: 0 auto;
+	text-align: center;
+}
+.cours-img{
+	padding: 10px 0;
+	text-align: center;
+}
+.service-card{
+	margin: 10px 0;
+}
+.common-padding{
+	padding: 60px 0;
+}
+
+}
+
